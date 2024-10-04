@@ -107,3 +107,12 @@ nav ul li a:hover {
   }
 
   /*메인(설명)*/
+.container{
+    display:flex;
+    justify-content: space-between;
+}
+.introduction{
+    border : 3px solid #ffffff;
+    padding : 10px;
+    width : 45%;
+}
