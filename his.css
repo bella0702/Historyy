@@ -107,7 +107,7 @@ nav ul li a:hover {
   }
 
   /*메인(설명)*/
-.container{
+.con{
     display:flex;
     justify-content: space-between;
 }
